@@ -1,3 +1,5 @@
+"""Test cases for num_sum_pandas in templates"""
+
 from DataAPI.templates import num_sum_pandas
 
 

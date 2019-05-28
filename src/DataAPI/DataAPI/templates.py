@@ -1,4 +1,3 @@
-"""Contains underlying functions serving the routes, including an alternate implementation using pandas"""
 import pandas as pd
 
 
